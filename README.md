@@ -21,7 +21,8 @@ The goal of this repository is to understand LangGraph concepts through practica
 - Python
 - LangGraph
 - LangChain
-- OpenAI/LLM APIs
+- Groq/LLM APIs
+- Streamlit
 
 ## Note
 This is a learning repository and will be updated regularly as I explore new LangGraph features, workflows, and agent architectures.
